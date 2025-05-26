@@ -4,8 +4,12 @@
 </div>
 
 <h2 align="center">
-  Привет, меня зовут Иван!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Привет, меня зовут Иван!  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  
+  <br><br>
+  
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/ibondareff)</a> 
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9652862096)</a>
 </h2>
 
 <h3> О себе </h3>
@@ -30,6 +34,15 @@
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+<h3>  </h3>
+
+<div align="center">
+
+  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Zimina_Victoria)</a>
+  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9601904218)</a>
+
+</div>
 
 <!--
 **voodoo723/voodoo723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
