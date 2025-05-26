@@ -17,6 +17,7 @@
 
 <h3> Обучение </h3>
 
+![alt text](https://github.com/voodoo723/voodoo723/blob/b6134465d8272d7875e836e78b6cb38d2a70595c/cert_karpov.pdf "Сертификат")
 
 Ссылка на сертификат: https://lab.karpov.courses/certificate/829ffe13-33e8-4269-8416-3cb56a04defa/
 
