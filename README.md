@@ -17,11 +17,17 @@
 
 <h3> Обучение </h3>
 
-![alt text](https://github.com/voodoo723/voodoo723/blob/b6134465d8272d7875e836e78b6cb38d2a70595c/cert_karpov.pdf "Сертификат")
+![image](https://github.com/user-attachments/assets/e5556ae4-7f6e-4d99-b339-9297fa15e340)
 
 Ссылка на сертификат: https://lab.karpov.courses/certificate/829ffe13-33e8-4269-8416-3cb56a04defa/
+<br><br>
+
+![image](https://github.com/user-attachments/assets/5879c15d-3512-4891-b23a-9589d26d3d0c)
 
 Ссылка на сертификат: https://stepik.org/cert/2753082
+<br><br>
+
+![image](https://github.com/user-attachments/assets/d0a60835-e63f-4ab8-8818-d05547841b7c)
 
 Ссылка на сертификат: https://stepik.org/cert/2739235
 
